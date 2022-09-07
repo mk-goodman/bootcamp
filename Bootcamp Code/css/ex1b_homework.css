@@ -1,0 +1,6 @@
+body {background-color: black;}
+h1 {color: orangered; border: 5px;border-color: white;border-style: double; border-color: white;}
+#h2red {color: red}
+#h2white {color: white}
+#para1  {color: red; font-size: 20px;font-family: Courier; text-align: justify;}
+#para2  {color: white; font-size: 20px;font-family: Helvetica; text-align: justify;}

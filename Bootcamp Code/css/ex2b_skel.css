@@ -1,0 +1,11 @@
+
+body {background-color: black;}
+h1 {color: white}
+h2 {color: white}
+p {color: white}
+#p1 {color: blue}
+#p2 {color: green}
+.p_red {color: red; border-style: dotted; border-color: white; border}
+#h1 {color: orangered}
+#h2 {color: white;font-family:  Calibri;}
+#div1 {background-color: red; padding-left: 50px;}
